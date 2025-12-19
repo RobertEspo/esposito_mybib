@@ -15,7 +15,7 @@ library("RefManageR")
 library("tidyverse")
 library("here")
 library("patchwork")
-library("scholar")
+# library("scholar")
 library("textutils")
 
 # Plotting options
